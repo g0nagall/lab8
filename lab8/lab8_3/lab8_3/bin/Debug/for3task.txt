@@ -1,0 +1,4 @@
+Ivanov ivan ivanovich 43 89
+smirnov petro petrovich 16 60
+petrov valeriy stepanovich 30 75
+sidorov maxim ivanovich 56 80
